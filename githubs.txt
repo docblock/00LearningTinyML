@@ -1,0 +1,9 @@
+
+https://github.com/docblock/00LearningTinyML
+https://github.com/docblock/01HelloWorld
+
+https://github.com/docblock/03ESP32p4webcamH264
+https://github.com/docblock/04ESP32p4webcamH264handgest
+https://github.com/docblock/05ESP32p4webcamH264face
+https://github.com/docblock/06ESP32p4webcamH264Yolo26
+https://github.com/docblock/07ESP32p4webcamH264Yolo26trained
