@@ -9,6 +9,6 @@ git clone --recursive https://github.com/espressif/esp-vision.git esp-vision
 cd esp-vision
 git apply waveshare-p4-v1.3-ov5647.patch
 
-# sdkconfig in den Build-Ordner verschieben
+Dann sdkconfig in den Build-Ordner verschieben
 
 
