@@ -4,7 +4,7 @@ https://ide.vision.espressif.com/
 Link zur Übersicht von Espressif zu ESP Vision:
 https://vision.espressif.com/en
 
-# Damit man mit Python auf dem ESP32 arbeiten kann, benötigt man eine passende Firmware\
+# Damit man mit Python auf dem ESP32 arbeiten kann, benötigt man eine passende Firmware
 Variante 1: Firmware selbst erzeugen\
 Infos zur Erstellung der Firmware:
 git clone --recursive https://github.com/espressif/esp-vision.git esp-vision \
