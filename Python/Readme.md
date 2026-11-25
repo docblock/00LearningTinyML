@@ -12,6 +12,6 @@ git apply waveshare-p4-v1.3-ov5647.patch \
 Dann sdkconfig in den Build-Ordner verschieben \
 
 Alternativ: fertige Firmware auf den ESP32 hochladen: \
-
+esptool.py --chip esp32p4 --port <PORT> --baud 460800 write_flash 0x0 esp-vision-waveshare-p4-v1.3-ov5647.bin
 
 
